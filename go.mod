@@ -1,4 +1,4 @@
-module github.com/algorand/go-algorand-sdk/v2
+module github.com/Marreck/go-algorand-sdk/v2
 
 go 1.25.0
 
@@ -8,9 +8,9 @@ require (
 	github.com/algorand/avm-abi v0.2.0
 	github.com/algorand/go-codec/codec v1.1.10
 	github.com/cucumber/godog v0.14.1
-	github.com/google/go-querystring v1.1.0
+	github.com/google/go-querystring v1.2.0
 	github.com/stretchr/testify v1.9.0
-	golang.org/x/crypto v0.45.0
+	golang.org/x/crypto v0.49.0
 )
 
 require (

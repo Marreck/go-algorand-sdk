@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/algorand/go-algorand-sdk/v2/encoding/msgpack"
+	"github.com/Marreck/go-algorand-sdk/v2/encoding/msgpack"
 )
 
 func TestSignedTxnFromBase64String(t *testing.T) {

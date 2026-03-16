@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/encoding/msgpack"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/Marreck/go-algorand-sdk/v2/crypto"
+	"github.com/Marreck/go-algorand-sdk/v2/encoding/msgpack"
+	"github.com/Marreck/go-algorand-sdk/v2/types"
 )
 
 // MinTxnFee is v5 consensus params, in microAlgos

@@ -7,10 +7,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/examples"
-	"github.com/algorand/go-algorand-sdk/v2/transaction"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/Marreck/go-algorand-sdk/v2/crypto"
+	"github.com/Marreck/go-algorand-sdk/v2/examples"
+	"github.com/Marreck/go-algorand-sdk/v2/transaction"
+	"github.com/Marreck/go-algorand-sdk/v2/types"
 )
 
 func main() {

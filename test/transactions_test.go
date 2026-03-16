@@ -10,10 +10,10 @@ import (
 	"github.com/cucumber/godog"
 	"golang.org/x/crypto/ed25519"
 
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/mnemonic"
-	"github.com/algorand/go-algorand-sdk/v2/transaction"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/Marreck/go-algorand-sdk/v2/crypto"
+	"github.com/Marreck/go-algorand-sdk/v2/mnemonic"
+	"github.com/Marreck/go-algorand-sdk/v2/transaction"
+	"github.com/Marreck/go-algorand-sdk/v2/types"
 )
 
 var sk1 ed25519.PrivateKey

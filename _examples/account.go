@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/algod"
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/mnemonic"
-	"github.com/algorand/go-algorand-sdk/v2/transaction"
+	"github.com/Marreck/go-algorand-sdk/v2/client/v2/algod"
+	"github.com/Marreck/go-algorand-sdk/v2/crypto"
+	"github.com/Marreck/go-algorand-sdk/v2/mnemonic"
+	"github.com/Marreck/go-algorand-sdk/v2/transaction"
 )
 
 func main() {

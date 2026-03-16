@@ -8,8 +8,8 @@ import (
 
 	"github.com/cucumber/godog"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common/models"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/indexer"
+	"github.com/Marreck/go-algorand-sdk/v2/client/v2/common/models"
+	"github.com/Marreck/go-algorand-sdk/v2/client/v2/indexer"
 )
 
 func IndexerUnitTestContext(s *godog.ScenarioContext) {

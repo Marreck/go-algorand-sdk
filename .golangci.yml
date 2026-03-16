@@ -101,7 +101,7 @@ formatters:
         - standard
         - default
         - prefix(github.com/algorand)
-        - prefix(github.com/algorand/go-algorand-sdk)
+        - prefix(github.com/Marreck/go-algorand-sdk)
   exclusions:
     generated: lax
     paths:

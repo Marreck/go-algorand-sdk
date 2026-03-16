@@ -3,8 +3,8 @@ package algod
 import (
 	"context"
 
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common"
-	"github.com/algorand/go-algorand-sdk/v2/client/v2/common/models"
+	"github.com/Marreck/go-algorand-sdk/v2/client/v2/common"
+	"github.com/Marreck/go-algorand-sdk/v2/client/v2/common/models"
 )
 
 // Versions retrieves the supported API versions, binary build versions, and

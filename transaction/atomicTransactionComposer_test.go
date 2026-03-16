@@ -5,9 +5,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/algorand/go-algorand-sdk/v2/abi"
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/Marreck/go-algorand-sdk/v2/abi"
+	"github.com/Marreck/go-algorand-sdk/v2/crypto"
+	"github.com/Marreck/go-algorand-sdk/v2/types"
 )
 
 func TestMakeAtomicTransactionComposer(t *testing.T) {

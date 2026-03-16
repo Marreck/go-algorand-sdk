@@ -6,10 +6,10 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/algorand/go-algorand-sdk/v2/crypto"
-	"github.com/algorand/go-algorand-sdk/v2/encoding/msgpack"
-	"github.com/algorand/go-algorand-sdk/v2/mnemonic"
-	"github.com/algorand/go-algorand-sdk/v2/types"
+	"github.com/Marreck/go-algorand-sdk/v2/crypto"
+	"github.com/Marreck/go-algorand-sdk/v2/encoding/msgpack"
+	"github.com/Marreck/go-algorand-sdk/v2/mnemonic"
+	"github.com/Marreck/go-algorand-sdk/v2/types"
 )
 
 func byteFromBase64(s string) []byte {

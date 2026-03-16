@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/algorand/go-algorand-sdk/v2/encoding/json"
-	"github.com/algorand/go-algorand-sdk/v2/encoding/msgpack"
+	"github.com/Marreck/go-algorand-sdk/v2/encoding/json"
+	"github.com/Marreck/go-algorand-sdk/v2/encoding/msgpack"
 	"github.com/google/go-querystring/query"
 )
 
